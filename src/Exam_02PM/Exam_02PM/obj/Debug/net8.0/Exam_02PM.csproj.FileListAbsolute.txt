@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\bin\Debug\net8.0\Exam_02PM.exe
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\bin\Debug\net8.0\Exam_02PM.deps.json
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\bin\Debug\net8.0\Exam_02PM.runtimeconfig.json
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\bin\Debug\net8.0\Exam_02PM.dll
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\bin\Debug\net8.0\Exam_02PM.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\Exam_02PM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\Exam_02PM.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\Exam_02PM.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\Exam_02PM.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\Exam_02PM.dll
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\refint\Exam_02PM.dll
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\Exam_02PM.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\Exam_02PM.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Рабочий стол\src\Exam_02PM\Exam_02PM\obj\Debug\net8.0\ref\Exam_02PM.dll
